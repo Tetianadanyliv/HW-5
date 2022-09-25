@@ -1,0 +1,130 @@
+.body {
+    background-color: black;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-family: 'Inter', sans-serif;
+
+
+font-size: 12px;
+}
+.table {
+    width: 60%;
+    height: 160px;
+    color: rgb(168, 166, 166);
+    border: 0.5px solid grey;
+    border-collapse: collapse;
+     border-radius: 7px;
+     box-sizing: border-box;
+     vertical-align: baseline;
+     align-content: space-between;
+     
+     
+}
+.thead {
+    width: 50%;
+height: 40px;
+text-align: left;
+color: white;
+border-collapse: collapse;
+border-bottom: 0.5px solid grey; 
+
+}
+.text  {
+    width: 50%;
+    padding-left: 15px;
+    
+}
+
+.text2 {
+    width: 50%;
+}
+
+.dots3 {
+width: 10px;
+height: 10px;
+padding-right: 15px;
+}
+
+.table1{
+ border-bottom: 0.5px solid grey; 
+ vertical-align: middle;
+}
+.img1 {
+width: 10px;
+height: 10px;
+}
+
+
+
+.table2 {
+    width: 60%;
+    height: 160px;
+    color: rgb(168, 166, 166);
+    border: 0.5px solid grey;
+    border-collapse: collapse;
+     border-radius: 7px;
+     box-sizing: border-box;
+     vertical-align: baseline;
+     margin-top: 20px;
+}
+.icon2 {
+    width: 10px;
+    height: 10px; 
+}
+
+.table3 {
+    width: 60%;
+    height: 160px;
+    color: rgb(168, 166, 166);
+    border: 0.5px solid grey;
+    border-collapse: collapse;
+     border-radius: 7px;
+     box-sizing: border-box;
+     vertical-align: baseline;
+     margin-top: 20px;
+     margin-bottom: 50px;
+}
+
+.icon4 {
+        width: 10px;
+        height: 10px; 
+    }
+
+    .search {
+        width: 14px;
+        height: 14px; 
+        padding-right: 100px;
+        padding-top: 5px;
+    }
+        
+    .button {
+        width: 180px;
+        height: 40;
+        background-color: gray;
+        border-radius: 3px;
+        color: rgb(207, 203, 203);
+        border: 1px solid rgb(22, 21, 21);
+        margin: 0 0 0 160px;
+    
+        
+    }
+    .tr {
+     
+        height: 50px;
+        display: flex;
+        justify-content: space-between;
+        border-bottom: 1px solid white;
+        padding-left: 10px;
+        padding-right: 20px;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+
+
+
+
+
+
+
